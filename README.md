@@ -1,2 +1,2 @@
 # wtfcurbside
-- socials.
+- Just socials
